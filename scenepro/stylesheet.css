@@ -1,0 +1,155 @@
+@font-face {
+    font-family: 'Scene Pro';
+    src: url('scenepro/ScenePro-Light.eot');
+    src: url('scenepro/ScenePro-Light.eot?#iefix') format('embedded-opentype'),
+        url('scenepro/ScenePro-Light.woff2') format('woff2'),
+        url('scenepro/ScenePro-Light.woff') format('woff'),
+        url('scenepro/ScenePro-Light.ttf') format('truetype'),
+        url('scenepro/ScenePro-Light.svg#ScenePro-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Scene Pro';
+    src: url('scenepro/ScenePro-BoldItalic.eot');
+    src: url('scenepro/ScenePro-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('scenepro/ScenePro-BoldItalic.woff2') format('woff2'),
+        url('scenepro/ScenePro-BoldItalic.woff') format('woff'),
+        url('scenepro/ScenePro-BoldItalic.ttf') format('truetype'),
+        url('scenepro/ScenePro-BoldItalic.svg#ScenePro-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Scene Pro';
+    src: url('scenepro/ScenePro-BlackItalic.eot');
+    src: url('scenepro/ScenePro-BlackItalic.eot?#iefix') format('embedded-opentype'),
+        url('scenepro/ScenePro-BlackItalic.woff2') format('woff2'),
+        url('scenepro/ScenePro-BlackItalic.woff') format('woff'),
+        url('scenepro/ScenePro-BlackItalic.ttf') format('truetype'),
+        url('scenepro/ScenePro-BlackItalic.svg#ScenePro-BlackItalic') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Scene Pro';
+    src: url('scenepro/ScenePro-Black.eot');
+    src: url('scenepro/ScenePro-Black.eot?#iefix') format('embedded-opentype'),
+        url('scenepro/ScenePro-Black.woff2') format('woff2'),
+        url('scenepro/ScenePro-Black.woff') format('woff'),
+        url('scenepro/ScenePro-Black.ttf') format('truetype'),
+        url('scenepro/ScenePro-Black.svg#ScenePro-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Scene Pro';
+    src: url('scenepro/ScenePro-Bold.eot');
+    src: url('scenepro/ScenePro-Bold.eot?#iefix') format('embedded-opentype'),
+        url('scenepro/ScenePro-Bold.woff2') format('woff2'),
+        url('scenepro/ScenePro-Bold.woff') format('woff'),
+        url('scenepro/ScenePro-Bold.ttf') format('truetype'),
+        url('scenepro/ScenePro-Bold.svg#ScenePro-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Scene Pro';
+    src: url('scenepro/ScenePro-Regular.eot');
+    src: url('scenepro/ScenePro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('scenepro/ScenePro-Regular.woff2') format('woff2'),
+        url('scenepro/ScenePro-Regular.woff') format('woff'),
+        url('scenepro/ScenePro-Regular.ttf') format('truetype'),
+        url('scenepro/ScenePro-Regular.svg#ScenePro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Scene Pro';
+    src: url('scenepro/ScenePro-MediumItalic.eot');
+    src: url('scenepro/ScenePro-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('scenepro/ScenePro-MediumItalic.woff2') format('woff2'),
+        url('scenepro/ScenePro-MediumItalic.woff') format('woff'),
+        url('scenepro/ScenePro-MediumItalic.ttf') format('truetype'),
+        url('scenepro/ScenePro-MediumItalic.svg#ScenePro-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Scene Pro';
+    src: url('scenepro/ScenePro-Medium.eot');
+    src: url('scenepro/ScenePro-Medium.eot?#iefix') format('embedded-opentype'),
+        url('scenepro/ScenePro-Medium.woff2') format('woff2'),
+        url('scenepro/ScenePro-Medium.woff') format('woff'),
+        url('scenepro/ScenePro-Medium.ttf') format('truetype'),
+        url('scenepro/ScenePro-Medium.svg#ScenePro-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Scene Pro';
+    src: url('scenepro/ScenePro-UltraBlackIt.eot');
+    src: url('scenepro/ScenePro-UltraBlackIt.eot?#iefix') format('embedded-opentype'),
+        url('scenepro/ScenePro-UltraBlackIt.woff2') format('woff2'),
+        url('scenepro/ScenePro-UltraBlackIt.woff') format('woff'),
+        url('scenepro/ScenePro-UltraBlackIt.ttf') format('truetype'),
+        url('scenepro/ScenePro-UltraBlackIt.svg#ScenePro-UltraBlackIt') format('svg');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Scene Pro';
+    src: url('scenepro/ScenePro-Italic.eot');
+    src: url('scenepro/ScenePro-Italic.eot?#iefix') format('embedded-opentype'),
+        url('scenepro/ScenePro-Italic.woff2') format('woff2'),
+        url('scenepro/ScenePro-Italic.woff') format('woff'),
+        url('scenepro/ScenePro-Italic.ttf') format('truetype'),
+        url('scenepro/ScenePro-Italic.svg#ScenePro-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Scene Pro';
+    src: url('scenepro/ScenePro-UltraBlack.eot');
+    src: url('scenepro/ScenePro-UltraBlack.eot?#iefix') format('embedded-opentype'),
+        url('scenepro/ScenePro-UltraBlack.woff2') format('woff2'),
+        url('scenepro/ScenePro-UltraBlack.woff') format('woff'),
+        url('scenepro/ScenePro-UltraBlack.ttf') format('truetype'),
+        url('scenepro/ScenePro-UltraBlack.svg#ScenePro-UltraBlack') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Scene Pro';
+    src: url('scenepro/ScenePro-LightItalic.eot');
+    src: url('scenepro/ScenePro-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('scenepro/ScenePro-LightItalic.woff2') format('woff2'),
+        url('scenepro/ScenePro-LightItalic.woff') format('woff'),
+        url('scenepro/ScenePro-LightItalic.ttf') format('truetype'),
+        url('scenepro/ScenePro-LightItalic.svg#ScenePro-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}

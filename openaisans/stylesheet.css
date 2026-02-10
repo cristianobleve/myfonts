@@ -1,0 +1,129 @@
+@font-face {
+    font-family: 'OpenAI Sans Book';
+    src: url('openaisans/OpenAISans-RegularItalic.eot');
+    src: url('openaisans/OpenAISans-RegularItalic.eot?#iefix') format('embedded-opentype'),
+        url('openaisans/OpenAISans-RegularItalic.woff2') format('woff2'),
+        url('openaisans/OpenAISans-RegularItalic.woff') format('woff'),
+        url('openaisans/OpenAISans-RegularItalic.ttf') format('truetype'),
+        url('openaisans/OpenAISans-RegularItalic.svg#OpenAISans-RegularItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'OpenAI Sans';
+    src: url('openaisans/OpenAISans-Regular.eot');
+    src: url('openaisans/OpenAISans-Regular.eot?#iefix') format('embedded-opentype'),
+        url('openaisans/OpenAISans-Regular.woff2') format('woff2'),
+        url('openaisans/OpenAISans-Regular.woff') format('woff'),
+        url('openaisans/OpenAISans-Regular.ttf') format('truetype'),
+        url('openaisans/OpenAISans-Regular.svg#OpenAISans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'OpenAI Sans';
+    src: url('openaisans/OpenAISans-Semibold.eot');
+    src: url('openaisans/OpenAISans-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('openaisans/OpenAISans-Semibold.woff2') format('woff2'),
+        url('openaisans/OpenAISans-Semibold.woff') format('woff'),
+        url('openaisans/OpenAISans-Semibold.ttf') format('truetype'),
+        url('openaisans/OpenAISans-Semibold.svg#OpenAISans-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'OpenAI Sans';
+    src: url('openaisans/OpenAISans-SemiboldItalic.eot');
+    src: url('openaisans/OpenAISans-SemiboldItalic.eot?#iefix') format('embedded-opentype'),
+        url('openaisans/OpenAISans-SemiboldItalic.woff2') format('woff2'),
+        url('openaisans/OpenAISans-SemiboldItalic.woff') format('woff'),
+        url('openaisans/OpenAISans-SemiboldItalic.ttf') format('truetype'),
+        url('openaisans/OpenAISans-SemiboldItalic.svg#OpenAISans-SemiboldItalic') format('svg');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'OpenAI Sans';
+    src: url('openaisans/OpenAISans-Light.eot');
+    src: url('openaisans/OpenAISans-Light.eot?#iefix') format('embedded-opentype'),
+        url('openaisans/OpenAISans-Light.woff2') format('woff2'),
+        url('openaisans/OpenAISans-Light.woff') format('woff'),
+        url('openaisans/OpenAISans-Light.ttf') format('truetype'),
+        url('openaisans/OpenAISans-Light.svg#OpenAISans-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'OpenAI Sans';
+    src: url('openaisans/OpenAISans-Medium.eot');
+    src: url('openaisans/OpenAISans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('openaisans/OpenAISans-Medium.woff2') format('woff2'),
+        url('openaisans/OpenAISans-Medium.woff') format('woff'),
+        url('openaisans/OpenAISans-Medium.ttf') format('truetype'),
+        url('openaisans/OpenAISans-Medium.svg#OpenAISans-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'OpenAI Sans';
+    src: url('openaisans/OpenAISans-LightItalic.eot');
+    src: url('openaisans/OpenAISans-LightItalic.eot?#iefix') format('embedded-opentype'),
+        url('openaisans/OpenAISans-LightItalic.woff2') format('woff2'),
+        url('openaisans/OpenAISans-LightItalic.woff') format('woff'),
+        url('openaisans/OpenAISans-LightItalic.ttf') format('truetype'),
+        url('openaisans/OpenAISans-LightItalic.svg#OpenAISans-LightItalic') format('svg');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'OpenAI Sans';
+    src: url('openaisans/OpenAISans-BoldItalic.eot');
+    src: url('openaisans/OpenAISans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('openaisans/OpenAISans-BoldItalic.woff2') format('woff2'),
+        url('openaisans/OpenAISans-BoldItalic.woff') format('woff'),
+        url('openaisans/OpenAISans-BoldItalic.ttf') format('truetype'),
+        url('openaisans/OpenAISans-BoldItalic.svg#OpenAISans-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'OpenAI Sans';
+    src: url('openaisans/OpenAISans-MediumItalic.eot');
+    src: url('openaisans/OpenAISans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('openaisans/OpenAISans-MediumItalic.woff2') format('woff2'),
+        url('openaisans/OpenAISans-MediumItalic.woff') format('woff'),
+        url('openaisans/OpenAISans-MediumItalic.ttf') format('truetype'),
+        url('openaisans/OpenAISans-MediumItalic.svg#OpenAISans-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'OpenAI Sans';
+    src: url('openaisans/OpenAISans-Bold.eot');
+    src: url('openaisans/OpenAISans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('openaisans/OpenAISans-Bold.woff2') format('woff2'),
+        url('openaisans/OpenAISans-Bold.woff') format('woff'),
+        url('openaisans/OpenAISans-Bold.ttf') format('truetype'),
+        url('openaisans/OpenAISans-Bold.svg#OpenAISans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
