@@ -1,0 +1,247 @@
+@font-face {
+    font-family: 'TitlingGothicFB Normal';
+    src: url('TitlingGothicFBNormal-Light.eot');
+    src: url('TitlingGothicFBNormal-Light.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBNormal-Light.woff2') format('woff2'),
+        url('TitlingGothicFBNormal-Light.woff') format('woff'),
+        url('TitlingGothicFBNormal-Light.ttf') format('truetype'),
+        url('TitlingGothicFBNormal-Light.svg#TitlingGothicFBNormal-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TitlingGothicFB Normal';
+    src: url('TitlingGothicFBNormal-Medium.eot');
+    src: url('TitlingGothicFBNormal-Medium.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBNormal-Medium.woff2') format('woff2'),
+        url('TitlingGothicFBNormal-Medium.woff') format('woff'),
+        url('TitlingGothicFBNormal-Medium.ttf') format('truetype'),
+        url('TitlingGothicFBNormal-Medium.svg#TitlingGothicFBNormal-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TitlingGothicFB Normal';
+    src: url('TitlingGothicFBNormal-Regular.eot');
+    src: url('TitlingGothicFBNormal-Regular.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBNormal-Regular.woff2') format('woff2'),
+        url('TitlingGothicFBNormal-Regular.woff') format('woff'),
+        url('TitlingGothicFBNormal-Regular.ttf') format('truetype'),
+        url('TitlingGothicFBNormal-Regular.svg#TitlingGothicFBNormal-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TitlingGothicFB Normal Standard';
+    src: url('TitlingGothicFBNormal-Standard.eot');
+    src: url('TitlingGothicFBNormal-Standard.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBNormal-Standard.woff2') format('woff2'),
+        url('TitlingGothicFBNormal-Standard.woff') format('woff'),
+        url('TitlingGothicFBNormal-Standard.ttf') format('truetype'),
+        url('TitlingGothicFBNormal-Standard.svg#TitlingGothicFBNormal-Standard') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TitlingGothicFB Normal';
+    src: url('TitlingGothicFBNormal-Thin.eot');
+    src: url('TitlingGothicFBNormal-Thin.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBNormal-Thin.woff2') format('woff2'),
+        url('TitlingGothicFBNormal-Thin.woff') format('woff'),
+        url('TitlingGothicFBNormal-Thin.ttf') format('truetype'),
+        url('TitlingGothicFBNormal-Thin.svg#TitlingGothicFBNormal-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TitlingGothicFB Skyline';
+    src: url('TitlingGothicFBSkyline-Black.eot');
+    src: url('TitlingGothicFBSkyline-Black.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBSkyline-Black.woff2') format('woff2'),
+        url('TitlingGothicFBSkyline-Black.woff') format('woff'),
+        url('TitlingGothicFBSkyline-Black.ttf') format('truetype'),
+        url('TitlingGothicFBSkyline-Black.svg#TitlingGothicFBSkyline-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TitlingGothicFB Skyline';
+    src: url('TitlingGothicFBSkyline-Bold.eot');
+    src: url('TitlingGothicFBSkyline-Bold.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBSkyline-Bold.woff2') format('woff2'),
+        url('TitlingGothicFBSkyline-Bold.woff') format('woff'),
+        url('TitlingGothicFBSkyline-Bold.ttf') format('truetype'),
+        url('TitlingGothicFBSkyline-Bold.svg#TitlingGothicFBSkyline-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TitlingGothicFB Skyline';
+    src: url('TitlingGothicFBSkyline-Light.eot');
+    src: url('TitlingGothicFBSkyline-Light.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBSkyline-Light.woff2') format('woff2'),
+        url('TitlingGothicFBSkyline-Light.woff') format('woff'),
+        url('TitlingGothicFBSkyline-Light.ttf') format('truetype'),
+        url('TitlingGothicFBSkyline-Light.svg#TitlingGothicFBSkyline-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TitlingGothicFB Skyline';
+    src: url('TitlingGothicFBSkyline-Regular.eot');
+    src: url('TitlingGothicFBSkyline-Regular.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBSkyline-Regular.woff2') format('woff2'),
+        url('TitlingGothicFBSkyline-Regular.woff') format('woff'),
+        url('TitlingGothicFBSkyline-Regular.ttf') format('truetype'),
+        url('TitlingGothicFBSkyline-Regular.svg#TitlingGothicFBSkyline-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TitlingGothicFB Skyline';
+    src: url('TitlingGothicFBSkyline-Medium.eot');
+    src: url('TitlingGothicFBSkyline-Medium.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBSkyline-Medium.woff2') format('woff2'),
+        url('TitlingGothicFBSkyline-Medium.woff') format('woff'),
+        url('TitlingGothicFBSkyline-Medium.ttf') format('truetype'),
+        url('TitlingGothicFBSkyline-Medium.svg#TitlingGothicFBSkyline-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TitlingGothicFB Skyline';
+    src: url('TitlingGothicFBSkyline-Thin.eot');
+    src: url('TitlingGothicFBSkyline-Thin.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBSkyline-Thin.woff2') format('woff2'),
+        url('TitlingGothicFBSkyline-Thin.woff') format('woff'),
+        url('TitlingGothicFBSkyline-Thin.ttf') format('truetype'),
+        url('TitlingGothicFBSkyline-Thin.svg#TitlingGothicFBSkyline-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TitlingGothicFB Skyline Standard';
+    src: url('TitlingGothicFBSkyline-Standard.eot');
+    src: url('TitlingGothicFBSkyline-Standard.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBSkyline-Standard.woff2') format('woff2'),
+        url('TitlingGothicFBSkyline-Standard.woff') format('woff'),
+        url('TitlingGothicFBSkyline-Standard.ttf') format('truetype'),
+        url('TitlingGothicFBSkyline-Standard.svg#TitlingGothicFBSkyline-Standard') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TitlingGothicFB Wide';
+    src: url('TitlingGothicFBWide-Black.eot');
+    src: url('TitlingGothicFBWide-Black.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBWide-Black.woff2') format('woff2'),
+        url('TitlingGothicFBWide-Black.woff') format('woff'),
+        url('TitlingGothicFBWide-Black.ttf') format('truetype'),
+        url('TitlingGothicFBWide-Black.svg#TitlingGothicFBWide-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TitlingGothicFB Wide';
+    src: url('TitlingGothicFBWide-Bold.eot');
+    src: url('TitlingGothicFBWide-Bold.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBWide-Bold.woff2') format('woff2'),
+        url('TitlingGothicFBWide-Bold.woff') format('woff'),
+        url('TitlingGothicFBWide-Bold.ttf') format('truetype'),
+        url('TitlingGothicFBWide-Bold.svg#TitlingGothicFBWide-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TitlingGothicFB Wide';
+    src: url('TitlingGothicFBWide-Regular.eot');
+    src: url('TitlingGothicFBWide-Regular.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBWide-Regular.woff2') format('woff2'),
+        url('TitlingGothicFBWide-Regular.woff') format('woff'),
+        url('TitlingGothicFBWide-Regular.ttf') format('truetype'),
+        url('TitlingGothicFBWide-Regular.svg#TitlingGothicFBWide-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TitlingGothicFB Wide';
+    src: url('TitlingGothicFBWide-Medium.eot');
+    src: url('TitlingGothicFBWide-Medium.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBWide-Medium.woff2') format('woff2'),
+        url('TitlingGothicFBWide-Medium.woff') format('woff'),
+        url('TitlingGothicFBWide-Medium.ttf') format('truetype'),
+        url('TitlingGothicFBWide-Medium.svg#TitlingGothicFBWide-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TitlingGothicFB Wide';
+    src: url('TitlingGothicFBWide-Light.eot');
+    src: url('TitlingGothicFBWide-Light.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBWide-Light.woff2') format('woff2'),
+        url('TitlingGothicFBWide-Light.woff') format('woff'),
+        url('TitlingGothicFBWide-Light.ttf') format('truetype'),
+        url('TitlingGothicFBWide-Light.svg#TitlingGothicFBWide-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TitlingGothicFB Wide Standard';
+    src: url('TitlingGothicFBWide-Standard.eot');
+    src: url('TitlingGothicFBWide-Standard.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBWide-Standard.woff2') format('woff2'),
+        url('TitlingGothicFBWide-Standard.woff') format('woff'),
+        url('TitlingGothicFBWide-Standard.ttf') format('truetype'),
+        url('TitlingGothicFBWide-Standard.svg#TitlingGothicFBWide-Standard') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TitlingGothicFB Wide';
+    src: url('TitlingGothicFBWide-Thin.eot');
+    src: url('TitlingGothicFBWide-Thin.eot?#iefix') format('embedded-opentype'),
+        url('TitlingGothicFBWide-Thin.woff2') format('woff2'),
+        url('TitlingGothicFBWide-Thin.woff') format('woff'),
+        url('TitlingGothicFBWide-Thin.ttf') format('truetype'),
+        url('TitlingGothicFBWide-Thin.svg#TitlingGothicFBWide-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
