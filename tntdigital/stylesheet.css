@@ -1,0 +1,52 @@
+@font-face {
+    font-family: 'TNT Digital';
+    src: url('TNTDigital-Bold.eot');
+    src: url('TNTDigital-Bold.eot?#iefix') format('embedded-opentype'),
+        url('TNTDigital-Bold.woff2') format('woff2'),
+        url('TNTDigital-Bold.woff') format('woff'),
+        url('TNTDigital-Bold.ttf') format('truetype'),
+        url('TNTDigital-Bold.svg#TNTDigital-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TNT Digital';
+    src: url('TNTDigital-Medium.eot');
+    src: url('TNTDigital-Medium.eot?#iefix') format('embedded-opentype'),
+        url('TNTDigital-Medium.woff2') format('woff2'),
+        url('TNTDigital-Medium.woff') format('woff'),
+        url('TNTDigital-Medium.ttf') format('truetype'),
+        url('TNTDigital-Medium.svg#TNTDigital-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TNT Digital';
+    src: url('TNTDigital-Regular.eot');
+    src: url('TNTDigital-Regular.eot?#iefix') format('embedded-opentype'),
+        url('TNTDigital-Regular.woff2') format('woff2'),
+        url('TNTDigital-Regular.woff') format('woff'),
+        url('TNTDigital-Regular.ttf') format('truetype'),
+        url('TNTDigital-Regular.svg#TNTDigital-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'TNT Digital Compressed';
+    src: url('TNTDigitalCompressed-Medium.eot');
+    src: url('TNTDigitalCompressed-Medium.eot?#iefix') format('embedded-opentype'),
+        url('TNTDigitalCompressed-Medium.woff2') format('woff2'),
+        url('TNTDigitalCompressed-Medium.woff') format('woff'),
+        url('TNTDigitalCompressed-Medium.ttf') format('truetype'),
+        url('TNTDigitalCompressed-Medium.svg#TNTDigitalCompressed-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
