@@ -8,9 +8,13 @@
 @import url('spacemono/stylesheet.css');
 @import url('titlinggothicfb/stylesheet.css');
 @import url('tntdigital/stylesheet.css');
+@import url('satoshi/stylesheet.css');
 
 /*
-@import url('/stylesheet.css');
+  TO IMPORT ALL CSS FONTS FILES, USE: {base_url}/all.css
+*/
+
+/*
 @import url('/stylesheet.css');
 @import url('/stylesheet.css');
 @import url('/stylesheet.css');
